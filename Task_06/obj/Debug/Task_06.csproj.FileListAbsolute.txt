@@ -1,0 +1,29 @@
+C:\Users\moham\OneDrive\Desktop\Task_06\Task_06\bin\Debug\Task_06.exe.config
+C:\Users\moham\OneDrive\Desktop\Task_06\Task_06\bin\Debug\Task_06.exe
+C:\Users\moham\OneDrive\Desktop\Task_06\Task_06\bin\Debug\Task_06.pdb
+C:\Users\moham\OneDrive\Desktop\Task_06\Task_06\obj\Debug\Task_06.csprojAssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\Task_06\Task_06\obj\Debug\Task_06.Form1.resources
+C:\Users\moham\OneDrive\Desktop\Task_06\Task_06\obj\Debug\Task_06.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\Task_06\Task_06\obj\Debug\Task_06.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\Task_06\Task_06\obj\Debug\Task_06.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Task_06\Task_06\obj\Debug\Task_06.exe
+C:\Users\moham\OneDrive\Desktop\Task_06\Task_06\obj\Debug\Task_06.pdb
+C:\Users\moham\OneDrive\Desktop\Task_6\Task_06\bin\Debug\Task_06.exe.config
+C:\Users\moham\OneDrive\Desktop\Task_6\Task_06\bin\Debug\Task_06.exe
+C:\Users\moham\OneDrive\Desktop\Task_6\Task_06\bin\Debug\Task_06.pdb
+C:\Users\moham\OneDrive\Desktop\Task_6\Task_06\obj\Debug\Task_06.Form1.resources
+C:\Users\moham\OneDrive\Desktop\Task_6\Task_06\obj\Debug\Task_06.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\Task_6\Task_06\obj\Debug\Task_06.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\Task_6\Task_06\obj\Debug\Task_06.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Task_6\Task_06\obj\Debug\Task_06.exe
+C:\Users\moham\OneDrive\Desktop\Task_6\Task_06\obj\Debug\Task_06.pdb
+C:\Users\moham\OneDrive\Desktop\Lab c#\task6\Task_6\Task_06\bin\Debug\Task_06.exe.config
+C:\Users\moham\OneDrive\Desktop\Lab c#\task6\Task_6\Task_06\bin\Debug\Task_06.exe
+C:\Users\moham\OneDrive\Desktop\Lab c#\task6\Task_6\Task_06\bin\Debug\Task_06.pdb
+C:\Users\moham\OneDrive\Desktop\Lab c#\task6\Task_6\Task_06\obj\Debug\Task_06.csprojAssemblyReference.cache
+C:\Users\moham\OneDrive\Desktop\Lab c#\task6\Task_6\Task_06\obj\Debug\Task_06.Form1.resources
+C:\Users\moham\OneDrive\Desktop\Lab c#\task6\Task_6\Task_06\obj\Debug\Task_06.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\Lab c#\task6\Task_6\Task_06\obj\Debug\Task_06.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\Lab c#\task6\Task_6\Task_06\obj\Debug\Task_06.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\Lab c#\task6\Task_6\Task_06\obj\Debug\Task_06.exe
+C:\Users\moham\OneDrive\Desktop\Lab c#\task6\Task_6\Task_06\obj\Debug\Task_06.pdb
